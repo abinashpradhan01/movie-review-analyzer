@@ -1,15 +1,3 @@
----
-title: Sentiment Review App Ab
-emoji: 🏢
-colorFrom: indigo
-colorTo: gray
-sdk: gradio
-sdk_version: 5.34.0
-app_file: app.py
-pinned: false
-license: apache-2.0
----
-
 # 🎬 IMDB Movie Review Sentiment Analyzer
 
 A simple yet effective sentiment analysis app that predicts whether a movie review is positive or negative using a trained Simple RNN model.
