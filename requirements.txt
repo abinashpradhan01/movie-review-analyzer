@@ -8,3 +8,4 @@ matplotlib
 scikeras
 tensorflow
 keras
+plotly
